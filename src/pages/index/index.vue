@@ -16,4 +16,4 @@ export default {
   onLoad() {},
   methods: {},
 }
-</script>w
+</script>
